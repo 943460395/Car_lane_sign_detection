@@ -545,6 +545,7 @@ void draw_locations(Mat & img, vector< Rect > &locations, const Scalar & color, 
         }
         
 	}
+	
 }
 
 
